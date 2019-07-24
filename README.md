@@ -7,6 +7,7 @@
 * `inkscape` [![Arch Linux package](https://img.shields.io/archlinux/v/extra/x86_64/inkscape.svg?style=flat-square&logo=arch-linux)](https://www.archlinux.org/packages/extra/x86_64/inkscape/)
 * `nerd-fonts-inconsolata-go` [![AUR version](https://img.shields.io/aur/version/nerd-fonts-inconsolata-go.svg?style=flat-square&logo=arch-linux)](https://aur.archlinux.org/packages/nerd-fonts-inconsolata-go/)
 * `texlive-bibtexextra` [![Arch Linux package](https://img.shields.io/archlinux/v/extra/any/texlive-bibtexextra.svg?style=flat-square&logo=arch-linux)](https://www.archlinux.org/packages/extra/any/texlive-bibtexextra/)
+* `texlive-langjapanese` [![Arch Linux package](https://img.shields.io/archlinux/v/extra/any/texlive-langjapanese.svg?style=flat-square&logo=arch-linux)](https://www.archlinux.org/packages/extra/any/texlive-langjapanese/)
 * `texlive-latexextra` [![Arch Linux package](https://img.shields.io/archlinux/v/extra/any/texlive-latexextra.svg?style=flat-square&logo=arch-linux)](https://www.archlinux.org/packages/extra/any/texlive-latexextra/)
 * `texlive-pictures` [![Arch Linux package](https://img.shields.io/archlinux/v/extra/any/texlive-pictures.svg?style=flat-square&logo=arch-linux)](https://www.archlinux.org/packages/extra/any/texlive-pictures/)
 
